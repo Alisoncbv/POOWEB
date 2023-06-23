@@ -1,0 +1,44 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+form{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px;
+    background-color: #A9D18E;
+    width: 600px;
+    height: 270px;
+    position: absolute;
+    left: 400px;
+    border: solid;
+
+
+}
+
+label {
+    /* Tamaño y alineación uniforme */
+    display: inline-block;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color:  #78b252;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}

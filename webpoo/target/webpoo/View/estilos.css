@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+.f1{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 9%;
+    flex-wrap: wrap;
+}
+
+.f2{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 30%;
+    flex-wrap: wrap;
+}
+
+.f3{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    right: 30%;
+    flex-wrap: wrap;
+}
+
+.f4{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    right: 9%;
+    flex-wrap: wrap;
+}
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
